@@ -1,0 +1,27 @@
+.footer-container {
+  float: bottom;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  height: 200px;
+  font-size: 11px;
+}
+
+.footer-section {
+
+
+}
+
+#contact-info {
+  width: 25%;
+  float: left;
+  padding-left: 21%;
+}
+
+#hours {
+  width: 30%;
+  float: right;
+}
+
+#id {
+  float: left;
+}
